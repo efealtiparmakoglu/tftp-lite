@@ -1,0 +1,4 @@
+/tftp-lite
+*.o
+plot_tests
+.DS_Store
